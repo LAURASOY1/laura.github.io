@@ -1,0 +1,15 @@
+ <html> 
+
+<head>
+<tittle>my website</tittle>
+ <link href="style.css"type="text/css"rel="stylesheet">
+
+<body>
+<div id="main">
+<h1>my website</h1>
+<hr>
+<p>laura knows this is a great platform</p>
+<div>
+</body>
+
+</html>
